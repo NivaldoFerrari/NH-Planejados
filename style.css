@@ -13,3 +13,9 @@ nav {
     border: 1px solid black;
     align-items: center;
 }
+
+nav > button {
+    width: 80px;
+    background-color: transparent;
+    font-size: 17px;
+}
